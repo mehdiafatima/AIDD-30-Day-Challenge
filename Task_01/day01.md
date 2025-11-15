@@ -10,16 +10,16 @@ In my opinion, in the future AI will not replace developers in software developm
 ## Self-Test (MCQs)
 
 1️⃣ What is the main purpose of the AI-Native Era?
-Empower developers through AI tools
+✅ Empower developers through AI tools
 
 2️⃣ What defines an AI-driven developer?
-Creates context-aware prompts
+✅ Creates context-aware prompts
 
 3️⃣ What does “AIDD” stand for?
-AI-Driven Development
+✅ AI-Driven Development
 
 4️⃣ What is the focus of Evaluation-Driven Development (EvDD)?
-Evaluating and improving AI outputs
+✅ Evaluating and improving AI outputs
 
 5️⃣ What should developers focus on in the AI era?
-Building reasoning + evaluation skills
+✅ Building reasoning + evaluation skills

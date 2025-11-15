@@ -2,3 +2,9 @@
 
 Welcome to my AI-Driven Development 30-Day Challenge repository!  
 This folder has all tasks, exercises, and notes from the challenge.
+
+---
+
+Over the next 30 days, I’ll explore how AI can enhance software development,  
+experiment with AI-driven coding, and share insights on improving productivity,  
+problem-solving, and creative workflows with AI.
